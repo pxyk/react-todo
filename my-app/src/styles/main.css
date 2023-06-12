@@ -1,0 +1,9 @@
+body {
+    background-color: #000000; /* siyah renk */
+    color: #ffffff; /* beyaz renk */
+}
+
+.black-btn {
+    background-color: #383838; /* siyah renk */
+    color: rgba(217, 215, 212, 0.8);
+}
